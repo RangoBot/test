@@ -1,19 +1,7 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Formulation d'étudiants</title>
-  <style>
-    /* Style for the footer text */
-    .footer-text {
-      position: fixed;
-      bottom: 10px;
-      left: 10px;
-      font-size: 10px; /* Small font size */
-      color: #555; /* Light gray color */
-    }
-  </style>
+  <title> d'étudiants</title>
 </head>
 <body>
   <h2>Formulation d'étudiants</h2>
